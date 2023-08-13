@@ -19,7 +19,7 @@ The project concludes with a comprehensive Microsoft Word report addressing key 
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
- Three significant conclusions are drawn about crowdfunding campaigns based on the dataset, and the [Report](https://github.com/robert-z-lehr/Data_Science_Portfolio/blob/main/Unveiling_Crowdfunding_Trends/Report.docx) highlights the dataset's limitations:
+ Three significant conclusions are drawn about crowdfunding campaigns based on the dataset, and the [Report](https://github.com/robert-z-lehr/Data_Science_Portfolio/blob/main/Unveiling_Crowdfunding_Trends/Report/Report.docx) highlights the dataset's limitations:
  
  In essence, "Crowdfunding Trends Analysis" delves into the realm of crowdfunding data to provide valuable insights for creators, investors, and enthusiasts.
 
