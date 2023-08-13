@@ -5,7 +5,7 @@
 - Pivot Tables
 - Functions
 
-Given a dataset of 1000 sample crowdfunding projects from platforms such as Kickstarter and Indiegogo, this project uses Excel to manpulate and analyze this dataset to uncover hidden trends and key market insights.
+Given a [raw dataset](https://github.com/robert-z-lehr/Data_Science_Portfolio/blob/main/Unveiling_Crowdfunding_Trends/Excel/CrowdfundingBook_raw.xlsx) of 1000 sample crowdfunding projects from platforms such as Kickstarter and Indiegogo, this project uses Excel to produce a [dataset](https://github.com/robert-z-lehr/Data_Science_Portfolio/blob/main/Unveiling_Crowdfunding_Trends/Excel/CrowdfundingBook.xlsx) which manipulates and analyze the raw data to uncover hidden trends and key market insights.
 
 The data manipulation and analysis includes:
 - conditional formatting, (to visually distinguish campaign outcomes – successful, failed, canceled, or live)
@@ -19,10 +19,7 @@ The project concludes with a comprehensive Microsoft Word report addressing key 
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
- Three significant conclusions are drawn about crowdfunding campaigns based on the dataset, and the report highlights the dataset's limitations:
- - Insight 1
- - Insight 2
- - Insight 3
+ Three significant conclusions are drawn about crowdfunding campaigns based on the dataset, and the [Report](https://github.com/robert-z-lehr/Data_Science_Portfolio/blob/main/Unveiling_Crowdfunding_Trends/Report.docx) highlights the dataset's limitations:
  
  In essence, "Crowdfunding Trends Analysis" delves into the realm of crowdfunding data to provide valuable insights for creators, investors, and enthusiasts.
 
