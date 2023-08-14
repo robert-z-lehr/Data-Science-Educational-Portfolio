@@ -28,3 +28,6 @@
 [submodule "submodules/Food-Hygiene-Analysis"]
 	path = submodules/Food-Hygiene-Analysis
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Geospatial-Earthquake-Visualization"]
+	path = submodules/Geospatial-Earthquake-Visualization
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
