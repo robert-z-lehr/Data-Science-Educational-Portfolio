@@ -25,3 +25,6 @@
 [submodule "submodules/Financial-Records-Analysis"]
 	path = submodules/Financial-Records-Analysis
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Food-Hygiene-Analysis"]
+	path = submodules/Food-Hygiene-Analysis
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
