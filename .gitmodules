@@ -16,3 +16,6 @@
 [submodule "submodules/Cryptocurrencies-Clustering-Model"]
 	path = submodules/Cryptocurrencies-Clustering-Model
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/ETL-Pipeline-for-Crowdfunding-Data"]
+	path = submodules/ETL-Pipeline-for-Crowdfunding-Data
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
