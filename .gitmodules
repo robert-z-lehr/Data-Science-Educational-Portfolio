@@ -7,3 +7,6 @@
 [submodule "submodules/Building-Flask-API-for-Vacation-Planning-and-Exploring-Climate-Data"]
 	path = submodules/Building-Flask-API-for-Vacation-Planning-and-Exploring-Climate-Data
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Credit-Risk-Classification"]
+	path = submodules/Credit-Risk-Classification
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
