@@ -55,3 +55,6 @@
 [submodule "submodules/Unveiling-Crowdfunding-Trends"]
 	path = submodules/Unveiling-Crowdfunding-Trends
 	url = https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends
+[submodule "submodules/VBA_Automated_Stock_Evaluation"]
+	path = submodules/VBA_Automated_Stock_Evaluation
+	url = https://github.com/robert-z-lehr/VBA_Automated_Stock_Evaluation
