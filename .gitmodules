@@ -13,3 +13,6 @@
 [submodule "submodules/Crimes_Traffic_Incidents_ATX"]
 	path = submodules/Crimes_Traffic_Incidents_ATX
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Cryptocurrencies-Clustering-Model"]
+	path = submodules/Cryptocurrencies-Clustering-Model
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
