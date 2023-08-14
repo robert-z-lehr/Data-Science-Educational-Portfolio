@@ -40,3 +40,6 @@
 [submodule "submodules/Project-3-Visualizing-Data"]
 	path = submodules/Visualizing-The-Great-Freeze-Texas-Energy-Prices
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/submodules/Scraping-and-Analyzing-Mars-News"]
+	path = submodules/submodules/Scraping-and-Analyzing-Mars-News
+	url = https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News
