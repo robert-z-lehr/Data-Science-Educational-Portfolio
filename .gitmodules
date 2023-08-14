@@ -49,3 +49,6 @@
 [submodule "submodules/SQL-Exploring-Pewlett-Hackard-Employee-Records"]
 	path = submodules/SQL-Exploring-Pewlett-Hackard-Employee-Records
 	url = https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records
+[submodule "submodules/Traffic-Crime-Correlations"]
+	path = submodules/Traffic-Crime-Correlations
+	url = https://github.com/robert-z-lehr/Traffic-Crime-Correlations
