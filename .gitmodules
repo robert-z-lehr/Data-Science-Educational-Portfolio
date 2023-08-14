@@ -43,3 +43,6 @@
 [submodule "submodules/submodules/Scraping-and-Analyzing-Mars-News"]
 	path = submodules/submodules/Scraping-and-Analyzing-Mars-News
 	url = https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News
+[submodule "submodules/Scraping-and-Analyzing-Mars-News"]
+	path = submodules/Scraping-and-Analyzing-Mars-News
+	url = https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News
