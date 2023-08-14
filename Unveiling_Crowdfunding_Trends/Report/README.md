@@ -5,7 +5,7 @@
     - There is a significant disparity in the number of crowdfunding campaigns between ‘film & video’ (178 campaigns), ‘music’ (175 campaigns), ‘theater’ (344 campaigns) and ‘food’ (46), ‘games’ (48), ‘journalism’ (4), ‘photography’ (42), ‘publishing’ (67), ‘technology’ (96), but the success of the campaigns does not look significantly better in either of these two categories with an approximately 56% and 58% success rate, respectively.
 - 76% of campaigns are USA-affiliated:
     - It is difficult to accurately compare crowdfunding campaigns across countries, so a more useful analysis would silo the countries for a more in-depth analysis.
-- Funding goals are either Small or very large:
+- Funding goals are either small or very large:
     - 86.31% of all crowdfunding projects had either a funding goal of 1,000 – 10,000 or 50,000+.
 
 - What are some limitations of this dataset?:
