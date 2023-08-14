@@ -37,3 +37,6 @@
 [submodule "submodules/NYC-Citi-Bike-Insights"]
 	path = submodules/NYC-Citi-Bike-Insights
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Project-3-Visualizing-Data"]
+	path = submodules/Project-3-Visualizing-Data
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
