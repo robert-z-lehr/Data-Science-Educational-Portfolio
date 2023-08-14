@@ -38,5 +38,5 @@
 	path = submodules/NYC-Citi-Bike-Insights
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
 [submodule "submodules/Project-3-Visualizing-Data"]
-	path = submodules/Project-3-Visualizing-Data
+	path = submodules/Visualizing-The-Great-Freeze-Texas-Energy-Prices
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
