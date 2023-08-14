@@ -19,3 +19,6 @@
 [submodule "submodules/ETL-Pipeline-for-Crowdfunding-Data"]
 	path = submodules/ETL-Pipeline-for-Crowdfunding-Data
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Exploring-School-Metrics-in-Pandas"]
+	path = submodules/Exploring-School-Metrics-in-Pandas
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
