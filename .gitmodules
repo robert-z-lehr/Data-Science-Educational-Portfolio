@@ -1,0 +1,3 @@
+[submodule "submodules/Analysis-of-Global-Weather-Patterns"]
+	path = submodules/Analysis-of-Global-Weather-Patterns
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
