@@ -52,3 +52,6 @@
 [submodule "submodules/Traffic-Crime-Correlations"]
 	path = submodules/Traffic-Crime-Correlations
 	url = https://github.com/robert-z-lehr/Traffic-Crime-Correlations
+[submodule "submodules/Unveiling-Crowdfunding-Trends"]
+	path = submodules/Unveiling-Crowdfunding-Trends
+	url = https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends
