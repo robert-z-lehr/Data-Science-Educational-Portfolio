@@ -10,3 +10,6 @@
 [submodule "submodules/Credit-Risk-Classification"]
 	path = submodules/Credit-Risk-Classification
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Crimes_Traffic_Incidents_ATX"]
+	path = submodules/Crimes_Traffic_Incidents_ATX
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
