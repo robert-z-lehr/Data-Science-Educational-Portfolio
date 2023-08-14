@@ -22,3 +22,6 @@
 [submodule "submodules/Exploring-School-Metrics-in-Pandas"]
 	path = submodules/Exploring-School-Metrics-in-Pandas
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Financial-Records-Analysis"]
+	path = submodules/Financial-Records-Analysis
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
