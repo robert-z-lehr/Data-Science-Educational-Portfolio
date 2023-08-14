@@ -58,3 +58,6 @@
 [submodule "submodules/VBA_Automated_Stock_Evaluation"]
 	path = submodules/VBA_Automated_Stock_Evaluation
 	url = https://github.com/robert-z-lehr/VBA_Automated_Stock_Evaluation
+[submodule "submodules/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib"]
+	path = submodules/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib
+	url = https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib
