@@ -46,3 +46,6 @@
 [submodule "submodules/Scraping-and-Analyzing-Mars-News"]
 	path = submodules/Scraping-and-Analyzing-Mars-News
 	url = https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News
+[submodule "submodules/SQL-Exploring-Pewlett-Hackard-Employee-Records"]
+	path = submodules/SQL-Exploring-Pewlett-Hackard-Employee-Records
+	url = https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records
