@@ -31,3 +31,6 @@
 [submodule "submodules/Geospatial-Earthquake-Visualization"]
 	path = submodules/Geospatial-Earthquake-Visualization
 	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
+[submodule "submodules/Nonprofit-Funding-Success-Model"]
+	path = submodules/Nonprofit-Funding-Success-Model
+	url = https://github.com/robert-z-lehr/Analysis-of-Global-Weather-Patterns
