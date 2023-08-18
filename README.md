@@ -3,7 +3,7 @@ Explore a diverse set of data science projects organized by skills and topics
 
 | Skills      | Projects                                             |
 |---------------|----------------------------------------------------------|
-|Excel Functions: <ul><li>Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
+|<span style="font-weight:bold; font-size: larger;">Excel Functions:</span><br><ul><li><strong>Feature 1:</strong> <ul><li>Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
 |Excel Functions: <ul><li>Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
 |Excel Functions: <ul><li>Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
 |Excel Functions: <ul><li>Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
