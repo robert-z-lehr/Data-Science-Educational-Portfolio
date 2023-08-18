@@ -26,9 +26,9 @@ Explore a diverse set of data science projects organized by skills and topics
 | next | next entry |
 
 
-| Product       | Description                                              |
+| Skills      | Projects                                             |
 |---------------|----------------------------------------------------------|
-| Product A     | This is product A.                                       |
+|<ul><li>Excel Functions: Pivot Tables</li><li>VBA Scripting</li><li></ul>| <ul><li>Project 1</li><li>Project 2</li><li></ul>|
 | Product B     | This is product B.                                       |
 | Product C     | This is product C.                                       |
 | Nested List:  | <ul><li>Feature 1: Description of feature 1.</li><li>Feature 2: Description of feature 2.</li><li>Feature 3: Description of feature 3.</li></ul> |
