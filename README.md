@@ -18,5 +18,9 @@ Explore a diverse set of data science projects organized by skills and topics
 | Product B     | This is product B.                            |
 | Product C     | This is product C.                            |
 | Nested List:  | - Feature 1: Description of feature 1.        |
-|               | - Feature 2: Description of feature 2.        |
-|               | - Feature 3: Description of feature 3.        |
+- a               | - Feature 2: Description of feature 2.        |
+- b               | - Feature 3: Description of feature 3.        |
+| test | entry|
+- c | |
+- d | |
+| next | next entry |
