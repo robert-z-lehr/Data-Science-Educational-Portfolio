@@ -21,11 +21,14 @@ Contains a diverse set of data science projects and trained skills
 
 | Skills               | Projects             |
 |----------------------|----------------------|
-| Outer Cell 1         | Outer Cell 2         |
-| Inner Table:         |                      |
-|                      | Inner Table Header 1 | Inner Table Header 2 |
-|                      |----------------------|----------------------|
-|                      | Inner Cell 1         | Inner Cell 2         |
+| Excel Functions         | Outer Cell 2         |
+| VBA Scripting         |                      |
+| Python Programming                     | Inner Table Header 1 | Inner Table Header 2 |
+| Databases                     |----------------------|----------------------|
+| Front End Web Visualization                     | Inner Cell 1         | Inner Cell 2         |
+| Business Intelligence Software                    | Inner Cell 1         | Inner Cell 2         |
+| Big Data                     | Inner Cell 1         | Inner Cell 2         |
+| Machine Learning                     | Inner Cell 1         | Inner Cell 2         |
 
 
 
