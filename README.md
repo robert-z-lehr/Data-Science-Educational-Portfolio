@@ -1,23 +1,5 @@
 # Data Science Portfolio
-Contains a diverse set of data science projects and trained skills
-
-## Skills-Based Projects
-
-- ### Front End Web Visualization
-  - #### Modeling
-  - #### Forecasting
-
-- ### Business Intelligence Software
-  - #### Modeling
-  - #### Forecasting
- 
-- ### Big Data
-  - #### AWS
-  - #### DataBricks
-
-- ### Machine Learning
-  - #### Unsupervised
-  - #### Supervised
+Explore a diverse set of data science projects organized by skills and topics
 
 | Skills               | Projects             |
 |----------------------|----------------------|
@@ -30,16 +12,11 @@ Contains a diverse set of data science projects and trained skills
 | Big Data                     | Inner Cell 1         | Inner Cell 2         |
 | Machine Learning                     | Inner Cell 1         | Inner Cell 2         |
 
-
-
-
-  - #### Modeling
-  - #### Forecasting
- 
-- ### Python Programming
-  - #### Modeling
-  - #### Forecasting
- 
-- ### Databases
-  - #### Modeling
-  - #### Forecasting
+| Product       | Description                                   |
+|---------------|-----------------------------------------------|
+| Product A     | This is product A.                            |
+| Product B     | This is product B.                            |
+| Product C     | This is product C.                            |
+| Nested List:  | - Feature 1: Description of feature 1.        |
+|               | - Feature 2: Description of feature 2.        |
+|               | - Feature 3: Description of feature 3.        |
