@@ -1,8 +1,8 @@
 # Data Science Education Portfolio (Work in Progress)
 Click on the hyperlinks to explore and learn the ins-and-outs of each of these data science skills and tools through:
 - Well-documented examples
-- Cheatsheets
 - Links to official documentation sites
+- - Cheatsheets
 
 | Skills      | Projects                                                   |
 |---------------|----------------------------------------------------------|
