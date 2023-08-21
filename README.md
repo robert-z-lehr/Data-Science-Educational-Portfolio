@@ -2,7 +2,7 @@
 Click on the hyperlinks to explore and learn the ins-and-outs of each of these data science skills and tools through:
 - Well-documented examples
 - Links to official documentation sites
-- - Cheatsheets
+- Cheatsheets
 
 | Skills      | Projects                                                   |
 |---------------|----------------------------------------------------------|
